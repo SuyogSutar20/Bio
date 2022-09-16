@@ -1,0 +1,50 @@
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{background-image: url("../Images/body-bg.png");background-repeat: no-repeat;}
+
+.LogoTake{font-family: 'Rubik', sans-serif !important; font-size: 30px !important;}
+.linkTop{font-family: 'Rubik', sans-serif !important;}
+.ExSpace{color: #1976d2;}
+
+.HeadLOc{font-family: 'Rubik', sans-serif !important; font-weight: 600 !important;font-size: 35px !important;}
+.HeadMani{height: 60%;}
+.ContHead{margin: 16%;}
+
+.HeadMAinTypo{font-family: 'Rubik', sans-serif !important; font-weight: 600 !important;font-size: 55px !important;}
+.SubDesig{font-family: 'Rubik', sans-serif !important; font-weight: 600 !important;font-size: 25px !important;}
+.ImageAvtar{max-width: 100%;width:80%;height: auto;margin: 15% 0;}
+.ImageABout{max-width: 100%;width:80%;height: auto;margin: 15% 0;}
+.imagBox{text-align: center;}
+.SubMain{font-family: 'Rubik', sans-serif !important;}
+.BTnCv{margin: 5rem;}
+.BtnMainPart{margin-top: 10px; font-family: 'Rubik', sans-serif !important;}
+
+
+
+/* Service */
+.SelectBox{background-color: #f9f9fd;}
+.CardServ{text-align: center; background-color: #f9f9fd !important;}
+.CardServ:hover{background-color: #fff !important;box-shadow: 10px 4px 30px 11px rgba(0,0,0,0.26);
+    -webkit-box-shadow: 10px 4px 30px 11px rgba(0,0,0,0.26);
+    -moz-box-shadow: 10px 4px 30px 11px rgba(0,0,0,0.26);}
+.IcoCarMain{text-align: center;}
+.IcoMain{width: 5rem;}
+.CardMainTop{padding: 0 10rem;}
+.HeadTypo{text-align: center;margin: 3rem 0;}
+.ServiceNam{font-family: 'Rubik', sans-serif !important;}
+.textService{font-family: 'Rubik', sans-serif !important;}
+.CardServ{padding: 25px 0;}
+
+
+/* Skill */
+.IcoSkillMain{font-family: 'Rubik', sans-serif !important;text-align: center;border: 1px solid #ccc; color:#ccc; margin: 10px;}
+.IcoSkillMain:hover{color: #000;box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.71);
+    -webkit-box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.71);
+    -moz-box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.71);}
+.IcoSkill{width: 60px;}
+.SubKey{font-family: 'Rubik', sans-serif !important;margin: 20px !important;font-size: 22px !important;font-weight: 600 !important;}
+
+
+/* Footer */
+
+.follwMe{font-family: 'Rubik', sans-serif !important;}
